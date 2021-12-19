@@ -10,4 +10,5 @@ app.use('/', api);
 
 app.listen(port, function (request, response) {
   console.log(`Server is up`);
+  console.log('hooooo');
 });
